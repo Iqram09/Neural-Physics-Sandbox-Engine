@@ -1,0 +1,8 @@
+[project]
+name = "neural-physics-sandbox"
+version = "0.1.0"
+description = "Physics simulation with GNNs and learned models"
+authors = ["Your Name <your@email.com>"]
+
+[tool.setuptools]
+packages = ["tools", "models"]
